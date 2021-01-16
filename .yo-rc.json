@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "王凯",
+      "authorEmail": "wangkka1@163.com",
+      "authorUrl": ""
+    }
+  }
+}
